@@ -1,5 +1,6 @@
 # What-and-Where-are-the-World-s-Oldest-Businesses
 Using joining techniques to discover the oldest businesses in the world
+![What-and-Where-are-the-World-s-Oldest-Businesses](https://github.com/oluwatosin17/What-and-Where-are-the-World-s-Oldest-Businesses/blob/main/datasets/400px-Eingang_zum_St._Peter_Stiftskeller.jpg)
 
 ## Project Description
 
